@@ -1,1 +1,4 @@
-# Lucky-Draw-Game
+-There are 49 boxes, each box contains a unique integer value from 1-49.
+-There are 7 rows and 7 colums.
+-There are 7 lucky boxes (6 lucky boxes in yellow colour, and 1 super lucky box in green colour).
+-Clicking on a box will reveal its integer value.
