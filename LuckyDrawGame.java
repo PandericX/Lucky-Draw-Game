@@ -41,7 +41,7 @@ class LuckyDraw extends JFrame implements ActionListener
 		buttonArray = new JButton [49];
 		for (int i = 0; i < 49; i++)
 		{
-			buttonArray [i] = new JButton ("SP");
+			buttonArray [i] = new JButton ("?");
 			add (buttonArray [i]);
 			buttonArray [i].addActionListener (this);
 		}
